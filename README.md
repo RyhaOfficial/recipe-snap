@@ -21,7 +21,7 @@ A modern web application built with Next.js and TypeScript for managing and shar
 - **State Management**: React Hooks
 - **Form Handling**: React Hook Form
 - **Validation**: Zod
-- **AI Integration**: Genkit AI
+- **AI Integration**: Genkit AI , Gemini AI
 
 ## Getting Started
 
