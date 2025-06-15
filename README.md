@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Recipe Snap
 
 A modern web application built with Next.js and TypeScript for managing and sharing recipes. This application leverages the power of AI to enhance the recipe management experience.
@@ -34,7 +34,7 @@ A modern web application built with Next.js and TypeScript for managing and shar
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/recipe-snap.git
+git clone https://github.com/RyhaOfficial/recipe-snap.git
 cd recipe-snap
 ```
 
@@ -98,5 +98,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Tailwind CSS for the utility-first CSS framework
 =======
 # recipe-snap
-The entire site was made by my own ai model which is under development for testing my model i made this site 
->>>>>>> ba79bcd74ec055eab5445c71b133465f2d54b548
+This entire website was developed by my own AI model, which is currently under development. I created this site to test and evaluate the capabilities of my model.
