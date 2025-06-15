@@ -96,6 +96,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Next.js team for the amazing framework
 - Radix UI for the accessible components
 - Tailwind CSS for the utility-first CSS framework
-=======
+
 # recipe-snap
 This entire website was developed by my own AI model, which is currently under development. I created this site to test and evaluate the capabilities of my model.
