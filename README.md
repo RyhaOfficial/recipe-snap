@@ -48,7 +48,7 @@ yarn install
 3. Set up environment variables:
 Create a `.env.local` file in the root directory and add your configuration:
 ```
-NEXT_PUBLIC_API_URL=your_api_url
+GEMINI_API_KEY=yourapikey
 ```
 
 4. Run the development server:
